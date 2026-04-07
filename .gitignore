@@ -47,3 +47,5 @@ buck-out/
 #
 package-lock.json
 /lib
+*.tgz
+harmony/shared_element/oh-package-lock.json5
